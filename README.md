@@ -13,10 +13,33 @@
 <br>
 
 <h3>📊 GitHub Stats</h3>
-  <div class="stats-container">
-    <img src="https://github-readme-stats.vercel.app/api?username=Deepanghsh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepanghsh&theme=tokyonight&hide_border=false" alt="GitHub Streak">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanghsh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-  </div>
+<style>
+  .stats-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+  }
+
+  .stats-container img {
+    max-width: 100%;
+    height: auto;
+    flex: 1 1 300px;
+    transition: transform 0.3s ease;
+  }
+
+  .stats-container img:hover {
+    transform: scale(1.05);
+  }
+</style>
+
+<div class="stats-container">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepanghsh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepanghsh&theme=tokyonight&hide_border=false" alt="GitHub Streak">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanghsh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Deepanghsh&no-frame=false&no-bg=false&margin-w=4)
