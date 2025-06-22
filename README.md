@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepanghsh Naik</h1>
 <h3 align="center">Aspiring full stack developer from India</h3>
 <br> <br>
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="280" width="460" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 <h3 align="left">💫 About Me:</h3>
 - 🌱 I’m currently learning *Java Script and React.js*
