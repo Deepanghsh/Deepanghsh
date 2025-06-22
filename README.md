@@ -13,13 +13,21 @@
 <br>
 
 <h3>📊 GitHub Stats</h3>
-<div class="stats-container">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepanghsh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepanghsh&theme=tokyonight&hide_border=false" alt="GitHub Streak">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanghsh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Deepanghsh&theme=tokyonight&hide_border=false&count_private=true&show_icons=true">
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepanghsh&theme=tokyonight&hide_border=false">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanghsh&theme=tokyonight&hide_border=false&layout=compact">
+    </td>
+  </tr>
+</table>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Deepanghsh&no-frame=false&no-bg=false&margin-w=4)
