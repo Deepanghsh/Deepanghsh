@@ -15,7 +15,7 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a></p>
 <br>
 
-<h3>📊 GitHub Stats</h3>
+<h3>📊 GitHub Stats:</h3>
 <table>
   <tr>
     <td>
@@ -32,7 +32,9 @@
   </tr>
 </table>
 
-## 🏆 GitHub Trophies
+<br>
+
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Deepanghsh&no-frame=false&no-bg=false&margin-w=4)
 
 ---
@@ -42,3 +44,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/deepanghsh dilkush naik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanghsh dilkush naik" height="30" width="40" /></a>
 </p>
+
+<br>
+
